@@ -15,4 +15,4 @@
 </p>
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/thangbuiq"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="thangbuiq" /></a></p>
-<p>&nbsp;<img align="center" src="https://i.imgur.com/oc0jVbY.jpg" height="246" width="308" alt="thangbuiq" /> </p><br><br>
+<p>&nbsp;<img align="center" src="https://i.imgur.com/oc0jVbY.jpg" height="308" width="246" alt="thangbuiq" /> </p><br><br>
