@@ -7,9 +7,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thangbuiq&show_icons=true&locale=en&layout=compact" alt="thangbuiq" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thangbuiq&show_icons=true&locale=en" alt="thangbuiq" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thangbuiq&" alt="thangbuiq" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thangbuiq&" alt="thangbuiq" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
