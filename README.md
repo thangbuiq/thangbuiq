@@ -10,7 +10,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thangbuiq&" alt="thangbuiq" /></p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/thangbuiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thangbuiq" height="50" width="65" /></a>
-<p> &nbsp;<a href="https://ko-fi.com/thangbuiq"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="thangbuiq" /></a></p>
-</p>
+<p> <a href="https://linkedin.com/in/thangbuiq" target="blank"> <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thangbuiq" height="50" width="65" /></a> </p>
+<p> &nbsp;<a href="https://ko-fi.com/thangbuiq"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="thangbuiq" /></a> </p>
