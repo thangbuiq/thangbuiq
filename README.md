@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm thangbuiq</h1>
+<h1 align="center">Hi, I'm thangbuiq</h1>
 
 🤝 I’m looking for jobs with **Machine Learning Engineering Problems**
 
