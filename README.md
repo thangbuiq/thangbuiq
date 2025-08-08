@@ -2,7 +2,7 @@
 
 - [x] 👨‍💻 A simple guy who loves coding and sharing
 
-- [x] 🚣 On my way to MLOps / DevOps Engineering
+- [x] 🚣 On my way to Data Engineer
 
 <h3 align="left">
   Explore my portfolio / my blog: <a href="https://thangbuiq.work/" target="blank"> thangbuiq.work </a> 
