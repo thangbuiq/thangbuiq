@@ -1,11 +1,11 @@
-<h2>Hello, I'm <a href="https://thangbuiq.work/" target="blank"> Thang Bui Quang </a> </h2>
+<h2>Hello, I'm <a href="https://thangbuiq.github.io/" target="blank"> Thang Bui Quang </a> </h2>
 
 - [x] 👨‍💻 A simple guy who loves coding and sharing
 
 - [x] 🚣 On my way to Data Engineer
 
 <h3 align="left">
-  Explore my portfolio / my blog: <a href="https://thangbuiq.work/" target="blank"> thangbuiq.work </a> 
+  Explore my portfolio / my blog: <a href="https://thangbuiq.github.io/" target="blank"> thangbuiq.github.io </a> 
 </h3>
 <h3 align="left">Connect with me:</h3>
 
